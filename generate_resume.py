@@ -200,7 +200,7 @@ def build_pdf(target_path):
     add_section_header("PROJECTS")
     
     # Project 1
-    p1_title = '<b>Hospital Appointment &amp; Queue Management</b> &nbsp;|&nbsp; <a href="https://haqms-virid-kappa.vercel.app/" color="#1d4ed8"><u>Live Demo</u></a>'
+    p1_title = '<b>Hospital Appointment &amp; Queue Management</b> &nbsp;|&nbsp; <a href="https://haqms-frontend-qk7k.onrender.com/" color="#1d4ed8"><u>Live Demo</u></a>'
     story.append(Paragraph(p1_title, project_title_style))
     story.append(Paragraph("Tech Stack: Node.js, PostgreSQL, Prisma ORM, JWT", tech_stack_style))
     story.append(Paragraph("• &nbsp;Engineered a secure appointment system, utilizing Prisma ORM and JWT to implement role-based access and prevent SQL injection.", bullet_style))
