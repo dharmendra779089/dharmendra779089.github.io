@@ -1,0 +1,9 @@
+# Local nested folder from ZIP extraction
+dharmendra779089.github.io-main/
+
+# Python cache & temp
+__pycache__/
+*.pyc
+temp_check/
+.vscode/
+.idea/
