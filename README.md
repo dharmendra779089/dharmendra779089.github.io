@@ -48,6 +48,14 @@ Live Demo: `https://dharmendra779089.github.io/`
    * *Stack:* Python, OpenCV, MediaPipe, PyAutoGUI
    * 🏆 1st Place Winner at Tech Expo 2024 (HCI Category).
 
+4. **Cafe RESTful API Engine**
+   * *Stack:* Python, Flask, SQLAlchemy, RESTful Architecture, Postman
+   * Full CRUD endpoints (`GET`, `POST`, `PATCH`, `DELETE`) with geographic query filtering and API-key authorization.
+
+5. **FlightSniper — Automated Flight Deal Tracker**
+   * *Stack:* Python, OOP Architecture, REST APIs (Kiwi/Tequila), Sheety API, Twilio SMS
+   * Automated deal tracking engine integrating cloud sheets synchronization and automated Twilio alert webhooks.
+
 ---
 
 ## 📁 Repository Structure
